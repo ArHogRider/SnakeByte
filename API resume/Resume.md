@@ -13,4 +13,5 @@
 5. This will show any matching words found in both and what there score is to see if the resume has the correct keywords.
 6. A excel spreadsheet is exported to see the results.
 
-  
+ Uses Pandas version 1.2.4
+ Uses SciKit-Learn version 0.24.1
